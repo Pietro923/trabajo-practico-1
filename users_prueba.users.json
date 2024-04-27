@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "662d455b66ea1940c47067b7"
+  },
+  "name": "Juan Pietro",
+  "email": "beelbonacossa@gmail.com",
+  "password": "923",
+  "username": "Bonacxito",
+  "age": "20",
+  "createdAt": {
+    "$date": "2024-04-27T18:35:07.978Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-27T18:35:07.978Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "662d45db88b824a789625c6c"
+  },
+  "name": "Lisandro",
+  "email": "lisan@gmail.com",
+  "password": "1234",
+  "username": "Ludueña",
+  "age": "21",
+  "createdAt": {
+    "$date": "2024-04-27T18:37:15.448Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-27T18:37:15.448Z"
+  }
+}]
